@@ -1,6 +1,6 @@
 # Hello, 🌎 !
 I'm Gesty, a self taught **Web Developer**! I'm currently practicing front-end 
-design, and learning back-end architecture.
+web design, and learning back-end server architecture.
 
 <p align="center">
 <a href="https://gesty.dev">
@@ -9,6 +9,6 @@ design, and learning back-end architecture.
 </p>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,md,bootstrap,astro,scss,py,github" href="Tech Stack">
+<img src="https://skillicons.dev/icons?i=js,html,css,md,jest,py,bootstrap,astro,scss,github" href="Tech Stack">
   </a>
 </p>
