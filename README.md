@@ -9,6 +9,6 @@ web design, and learning back-end server architecture.
 </p>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,md,jest,py,bootstrap,astro,scss,github" href="Tech Stack">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,md,sass,py,jest,bootstrap,astro,github" href="Tech Stack">
   </a>
 </p>
