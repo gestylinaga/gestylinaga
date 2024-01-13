@@ -4,7 +4,7 @@ Hi! I'm Gesty, a <strong>self-taught</strong> Web Developer!
 </p>
 <p align="center">
 <a href="https://gesty.dev">
-<img src="https://gesty.dev/imgs/profile/profileDesert.png" alt="Me in DV">
+<img src="https://gesty.dev/imgs/profile/profileDesert.webp" alt="Me in Death Valley">
   </a>
 </p>
 <p align="center">
